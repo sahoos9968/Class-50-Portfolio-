@@ -1,0 +1,44 @@
+h1 {
+    
+    font-family:sans-serif;
+    font-size:50;
+    color:#66a301;
+    
+}
+
+.header{
+    background-color: #120687;
+    display: flex;
+    justify-content:center;
+}
+
+.menu {
+    background-color:#ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.abcde {
+    background-color:#1234ef;
+    display: flex;
+    flex-direction:column;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: gray;
+}
+
+body{
+    background-color:#3f58e2;
+}
+
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:purple;
+}

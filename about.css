@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+.info {
+    display: flex;
+    justify-content:space-around;
+    background-color:orange;
+}
+
+.images {
+    justify-content:center;
+    margin-left:875px;
+}
